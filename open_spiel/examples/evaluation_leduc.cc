@@ -300,7 +300,7 @@ void print_stats() {
   std::cerr << "The number of strong hands played aggressivly was " << p2_fastplay << "." << std::endl;
   std::cerr << "Out of that " << p2_fastplay_success << " games were won." << std::endl;
   std::cerr << "The number of semi-bluffs played was " << p2_semibluffs << "." << std::endl;
-  std::cerr << "Out of that " << p1_semibluffs_success << " games were won." << std::endl;
+  std::cerr << "Out of that " << p2_semibluffs_success << " games were won." << std::endl;
 }
 
 
